@@ -1,2 +1,2 @@
-# capstone_alma
-# capstone_alma
+# capstone project global terrorism data analysys
+
